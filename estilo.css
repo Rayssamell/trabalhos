@@ -1,0 +1,35 @@
+td{
+  background-color:#F2DCFF;
+
+}
+  
+  input{
+    background-color:#e1bee7;
+
+}
+h2{
+    color: #ab47bc;
+    font-family: Arial;
+    
+}
+h3{
+    color: #ba68c8;
+    font-family: Arial;
+    font-size: 14;
+    
+}
+p{
+    font-family: Arial;
+     font-size: 13;}
+p:hover{
+    font-family: Arial;
+    font-size: 12;
+     color: #B256FF  ;
+}
+li{
+    color:#ba68c8 ;
+   
+}
+ 
+     
+        
